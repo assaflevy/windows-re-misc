@@ -1,0 +1,4 @@
+Two wide-string functions call their ascii string counterparts to do the job, contrary to most functions:
+OutputDebugStringW -> A
+CryptBinaryToStringW -> A
+
